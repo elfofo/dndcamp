@@ -7,10 +7,10 @@ Le stewart, Jenkins, se présente, explique que la majeure partie du trajet se f
 - le wagon de soute, où se trouvent les bagages et le coffre que seul le conducteur peut ouvrir (il laisse échapper qu'un objet très précieux est transporté aujourd'hui)
 
 Dans la taverne :
-- Eldra, une guerrière naine rousse et musculeuse, catcheuse professionnelle, elle se rend à Alaghôn pour le grand tournoi.
-- Lucius, un garçon de 13 ans un peu chétif, blond aux yeux bleus, il est passionné d'énigmes et de mystères et rend visite à son grand-père.
-- Un auto-tav (ernier), un automate capable de réaliser 746 cocktails différents et de préparer à manger.
-- Une famille de voyageur (père, mère, et une fillette de 8 ans)
+- [Eldra](pnj/eldra.md), une guerrière naine rousse et musculeuse, catcheuse professionnelle, elle se rend à Alaghôn pour le grand tournoi.
+- [Lucius](pnj/lucius.md), un garçon de 13 ans un peu chétif, blond aux yeux bleus, il est passionné d'énigmes et de mystères et rend visite à son grand-père.
+- Un [auto-tav](pnj/lucius.md) (ernier), un automate capable de réaliser 746 cocktails différents et de préparer à manger.
+- Une famille de voyageur (père, mère, et une fillette de 8 ans), les Staynoga
 
 Puis il vous laisse et retourne vaquer.
 Soudain, un cri venant du premier wagon, vous vous précipitez et trouvez Jenkins mort sur le sol, sa tête et son épaule droite calcinées, le bras droit disparu.
