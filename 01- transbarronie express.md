@@ -63,7 +63,7 @@ Simulacre de Vie : 1d4 + 4 PV temporaires
 
 Inventaire: 1 demi fiole de poison, 1 robe de nécro, 1 dague, 
 
-Le coffre de la soute contient un objet magique. Il s'agit d'une aiguille d'horloge d'1m de long dans un coffret en bois et velours (elle peut s'utiliser comme une lance 1d6 et revient toujours dans la main du lanceur à la fin du tour, elle donne un sort n2 permettant d'être hors du temps pendant un tour???). Elle pulse d'énergie. Quand on la touche, un grand flash de lumière, un début de tremblement de terre, on entend des cailloux tomber sur le toit, puis un nouveau flash et tout est blanc à l'extérieur du train.
+Le coffre de la soute contient un objet magique. Il s'agit d'une [aiguille](objets/aiguille.md) d'horloge d'1m de long dans un coffret en bois et velours (elle peut s'utiliser comme une lance 1d6 et revient toujours dans la main du lanceur à la fin du tour, elle donne un sort n2 permettant d'être hors du temps pendant un tour???). Elle pulse d'énergie. Quand on la touche, un grand flash de lumière, un début de tremblement de terre, on entend des cailloux tomber sur le toit, puis un nouveau flash et tout est blanc à l'extérieur du train.
 
 Après quelques minutes, la blancheur disparait et le train sort du tunnel.
 
