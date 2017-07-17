@@ -11,7 +11,7 @@ CA 7 PV 21 Vit 10m
 Il possède un livre nommé "Les mystères d'Al'Adran", qui lui donne +8 au jet de perspicacité et d'investigation
 
 AutoTav
-=======
+-------
 
 Golem mécanique, parmi les premiers du genre. Construit par le laboratoire du Cuivre.
 
@@ -31,8 +31,9 @@ Résistance à la magie. Le golem a l'avantage aux jets de sauvegarde effectués
 
 Armes magiques. Les attaques avec une arme du golem sont magiques.
 
-Histoire:
+Histoire
+========
 
 Il se rendait à Alaghôn pour venir vivre chez son grand-père.
 Son grand-père est mort. Il a fait un passage au temple, puis plus aucune trace de lui dans la ville. 
-[Yevelda](yvelda.md) a la recherche de l'autotav comprend vite l'intérêt à emmener aussi le garçon. Il devient un récupérateur pour le Cuivre, l'autotav pouvant manipuler les aberrations sans soucis.
+[Yevelda](yevelda.md) a la recherche de l'autotav comprend vite l'intérêt à emmener aussi le garçon. Il devient un récupérateur pour le Cuivre, l'autotav pouvant manipuler les aberrations sans soucis.
