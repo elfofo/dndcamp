@@ -20,4 +20,4 @@ C'est la Désolation d'Osraune.
 Il est impossible de se reposer longuement à part dans quelques lieux exceptionnels où les cauchemars semblent s'apaiser (temples, clairières magiques, sources souterraines, etc.). On ne peut gagner que la moitié des PV manquants en se reposant.
 
 
-Passage par [Nonthal](lieux/01b - Nonthal.md) sur la route d'[Alaghôn](lieux/02 - Alaghôn.md).
+Passage par [Nonthal](lieux/01b%20-%20Nonthal.md) sur la route d'[Alaghôn](lieux/02%20-%20Alaghon.md).
