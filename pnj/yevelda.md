@@ -1,4 +1,7 @@
-Yevelda Maknok: 
+Yevelda Maknok
+==============
+
+Exécuteur du cuivre
 
 Parle en mitraillant, des phrases de maximum trois mots. Voix un peu sèche et rauque.
 
