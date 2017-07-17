@@ -4,7 +4,6 @@ Un grondement vient de derrière le train. A la place des monts Osraunes, un gig
 A l'opposé, le soleil, ou ce qu'on en distingue, est à l'aube.
 
 Le train tressaute, les rails ont été abimés, et il n'y a plus de conducteur. On pourrait dérailler...
-
 Si échec à arrêter le train, crash. Réveil dans des souterrains habités par des cannibales.
 
 
