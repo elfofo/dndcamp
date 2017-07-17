@@ -8,6 +8,9 @@ Les souterrains de la ville ont été convertis en champignonnières.
 
 Les gens ne sont pas jouasses. Les quelques tavernes de la ville servent un alcool d'algue infâme et très fort, et du gruau de poisson et de champignon.
 
+Le duc d'Alaghôn, Salazar Helder, est un humain. Il est très dur de parvenir jusqu'à lui.
+
+La guilde des guerriers est encore active.
 Marchand de l'amicale des guerriers turmish :
 - armes communes
 - armes de guerres < 30po
@@ -20,3 +23,5 @@ Le temple majeur de la ville est celui d'Ilmater, dieu de l'endurance. C'est d'a
 Le grand prêtre est un haut elfe nommé Mindartis Amakiir.
 
 La gare désaffectée sert d'entrepôt, mais contient toujours les registres des passagers et des marchandises d'avant la désolation.
+
+De la même manière que pour les temples, la plupart des criminels ont désertés les guildes pour se consacrer à la piraterie et la contrebande avec l'Ile dragon.
