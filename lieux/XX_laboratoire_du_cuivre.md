@@ -11,3 +11,10 @@ Le laboratoire fabrique et entretient de nombreuses machines mechanomagiques :
 - des *automates*, plus ou moins évolués
 
 Le laboratoire peut voler grâce à une des premières aberrations récupérée ayant la propriété d'agir sur la gravité.
+
+TODO : 
+- grand prêtre
+- atelier création d'objets à base d'aberration
+- magasin
+- quartiers
+- cérémonie d'acceptation ?
