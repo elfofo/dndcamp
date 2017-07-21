@@ -5,6 +5,7 @@ Catcheuse naine.
 
 Peu locace. A tendance à taper un peu fort derrière l'épaule des gens.
 Se lance dans la bataille criant "C'est l'heure de l'échauffement".
+Attache beaucoup d'importance à l'honneur et au combat dans les règles.
 
 Guerrière niv. 16
 
@@ -27,6 +28,4 @@ Histoire
 
 Elle se rend à Alaghôn pour un tournoi de catch.
 
-Elle atteint la ville, comprend vaguement la situation, et prend un bateau pour retourner chez elle pour savoir ce qui est arrivé à sa famille.
-
-Le bateau a destination de Port-Ponant.
+Elle ne sait pas trop quoi faire d'elle même dans ce nouveau monde.
