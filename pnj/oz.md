@@ -33,3 +33,10 @@ Caractère
 En charge de tous les aspects mécano-magiques de l'Ordre. Toujours confiant et assuré.
 
 Enjoué, pervers à l'occasion.
+
+
+Caractéristiques
+----------------
+
+Dragon de cuivre ancien métamorphosé
+
