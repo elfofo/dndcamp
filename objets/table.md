@@ -21,7 +21,11 @@ Armes
 1. Dague de venin [ Dagger of Venom ] Arme (dague), rare
 1. Éventail enchanté [ Wind Fan ] Objet merveilleux, peu commun
 1. Flûte de hantise [ Pipes of Haunting ] Objet merveilleux, peu commun
-
+1. Mandoline de Canaith	Rare
+1. Lyre de Cli	Rare
+1. Luth de Doss	Peu commun
+1. Bandoura de Fochluchan	Peu commun
+1. Cistre de MacFuirmidh	Peu commun
 
 Armures
 -------
