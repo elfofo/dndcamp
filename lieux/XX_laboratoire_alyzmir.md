@@ -8,7 +8,14 @@ La récente éruption a déplacé les lignes, et il est maintenant possible d'y 
 
 La ruine semble être à l'abandon depuis des siècles.
 
-TODO : Plan + pièges
+Plan : 
+- shatered tower
+- library with grid
+- hatak combined grid 
+- ledeg tower
+- mad warlocks dome and tower
+- requasqueton
+
 
 On y trouve une étagère détruite jadis remplie de 887 rouleaux de parchemin.
 L'étagère et les rouleaux sont tombés en poussière au fil des siècles. 
