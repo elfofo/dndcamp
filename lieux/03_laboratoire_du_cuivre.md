@@ -12,9 +12,21 @@ Le laboratoire fabrique et entretient de nombreuses machines mechanomagiques :
 
 Le laboratoire peut voler grâce à une des premières aberrations récupérée ayant la propriété d'agir sur la gravité.
 
-TODO : 
-- grand prêtre
-- atelier création d'objets à base d'aberration
-- magasin
-- quartiers
-- cérémonie d'acceptation ?
+# L'atelier
+L'atelier mécanomagique conçoit et fabrique divers [objets mécanomagiques](/objets/mecanomagic.md) pour les gens de l'ordre et disponibles à la vente pour les mercenaires.
+
+# Les quartiers des mercenaires
+
+Il s'étend sur 10 niveaux au dessus du sol et 12 en dessous. Les companies s'y installent en fonction de leur alignement moyen. Les niveaux proches du sol sont nommés l'entre-deux.
+Au centre une grande place ovale d'environ 150 m de diamètre. Chaque étage des batiments autour grapille quelques mètres, formant une sorte de dôme troué. Les batîments sont un étonnant patchwork d'ancien temple grec et d'un peu tout ce qui a pu être trouvé comme matériel de construction.
+Les quartiers mélangent habitations, commerces, et échoppes/tavernes.
+Ils sont divisés en 4 quadrants effectuant des rotations de sommeil de 8 heures.
+
+# La capitainerie
+
+La capitainerie de la compagnie de la corde d'argent est chargée d'affecter les différentes missions aux mercenaires.
+Celui qui tient le bureau est un demi-géant du nom d'Aukam. Il est assis derrière un comptoir dont ses genoux dépassent.
+Il a la peau matte, est chauve mais porte une barbe bien taillée. Il porte un uniforme bleu et argent de la compagnie, mais les manches s'arrêtent aux coudes, révélant de nombreux tatouages tribaux.
+
+
+
