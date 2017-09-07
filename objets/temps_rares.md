@@ -15,12 +15,6 @@ dans laquelle le temps s'écoule 60x plus lentement.
 La bulle est fixe autour de l'anneau. Tout ce qui la traverse la brise.
 On peut la maintenir une heure (en temps hors bulle) toutes les 24h.
 
-Gemme d'addition 
-----------------
-
-Vous pouvez dépenser deux emplacements de sorts pour lancer un sort que vous connaissez
-au niveau cumulé de ces emplacements. La gemme est consummée dans l'opération.
-
 Souffrance mutuelle (lié)
 -------------------
 
@@ -43,7 +37,7 @@ de l'imprégner de son sang sacrifiant X PV. En cas d'attaque réussie avec
 la dague imprégnée contre une créature, celle-ci vieilli de X*niveau années.
 La dague n'est alors plus imprégnée.
 
-Don du temps
+Don au temps
 ------------
 
 Briser cette gemme dans sa bouche et en avaler les fragments permet au joueur de
