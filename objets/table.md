@@ -26,6 +26,11 @@ Armes
 1. Luth de Doss	Peu commun
 1. Bandoura de Fochluchan	Peu commun
 1. Cistre de MacFuirmidh	Peu commun
+1. Munition +1 peu commun
+1. Munition +2 rare
+1. Masse de démolition, Arme (masse d'armes), rare
+1. Sceptre inébranlable, Sceptre, peu commun
+
 
 Armures
 -------
@@ -67,3 +72,16 @@ Equipement
 1. Corde d'escalade [ Rope of Climbing ] Objet merveilleux, peu commun
 1. Forteresse instantanée [ Instant Fortress ] Objet merveilleux, rare
 1. Globe flottant [ Driftglobe ] Objet merveilleux, peu commun
+1. Lunettes de nuit, Objet merveilleux, peu commun
+1. Médaillon des pensées, Objet merveilleux, peu commun (nécessite un lien)
+1. Mitaines de cambriolage, Objet merveilleux, peu commun
+1. Robe de vision totale, Objet merveilleux, rare (nécessite un lien)
+1. Sac sans fond, Objet merveilleux, peu commun
+1. SERRE-TÊTE DE LUMIÈRE DESTRUCTRICE [ Circlet of Blasting ]Objet merveilleux, peu commun
+1. Tapis volant, Objet merveilleux, très rare
+
+Consommable
+---------
+1. Potion peu commune
+1. Potion rare
+1. Poussière de disparition, Objet merveilleux, peu commun
