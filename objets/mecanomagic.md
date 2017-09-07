@@ -24,20 +24,22 @@ Railgun mécanomagique [300po]
 ----------------------
 Idem Arbalète lourde, 1d12 perforant, portée 30m/120m, à deux mains
 
-Cette arbalète se recharge automatiquement et instantanément après un tir. Elle génère ses propres carreaux magiques.
+Ce fusil se recharge automatiquement et instantanément après un tir. Il utilise des carreaux d'arbalètes en métal,
+dans un chargeur rotatif de 12.
 
-Utilise une pile de foudre par 12 coups.
+Utilise une pile de foudre pour 12 coups. Une pile supplémentaire peut être dépensée en parallèle pour ajouter 2d8 dégats
+élémentaires vs sav CON(attaque).
 
-Lance-flamme [200po]
+Lance-flamme [250po]
 ---------------
 Portée 10m, à deux mains, lourde
 
 Cette arme utilise une pile de feu pour 12 attaques. Attaque contre sauvegarde DEX, 2d6 dégats de feu. Puis à chaque tour,
 sauvegarde CON pour 1d6 dégats feu.
 
-Bracelet Lance-grapin [150po]
+Bracelet Lance-grapin [250po]
 --------------
-Idem arbalète de poing, Portée 20m, 3 kg, n'encombre pas les mains
+Idem arbalète de poing, Portée 20m, 1 kg, n'encombre pas les mains
 
 Ce bracelet se fixe sur l'avant-bras et lance une griffe auto-aggripante. On peut l'utiliser pour un jet d'attaque, si réussi 1d4 contondant.
 Quand le grappin s'aggripe à quelque chose, si elle est plus légère que le tireur elle est projetée à une vitesse de 20m
@@ -71,11 +73,15 @@ Il obéit aux ordres simples suivants (action gratuite) :
 
 1 pile de feu lui permet de fonctionner 48 heures en continu.
 
-Multiplexeur arcanique [550po]
+Multiplexeur arcanique [500po]
 ----------------------
-De la taille d'un poing fermé, cet étrange sphère assemblée de minuscules engrenages et de cristaux permet :
-- de dépenser deux emplacements de sorts de niveaux X et Y pour obtenir un emplacement de niveau X+Y-1
-- de dépenser un emplacement de sort de niveau Z pour obtenir deux emplacements de niveau X et Y tels que X+Y=Z-1
+De 5 cm de diamètre, cet étrange sphère assemblée de minuscules engrenages et de cristaux permet 
+de dépenser deux emplacements de sorts de niveaux X et Y pour obtenir un emplacement de niveau X+Y-1 (limité par le niveau maximum des emplacements du lanceur)
+
+Démultiplexeur arcanique [250po]
+-------------------------
+De 5 cm de diamètre, cet étrange sphère assemblée de minuscules engrenages et de cristaux permet 
+de dépenser un emplacement de sort de niveau Z pour obtenir deux emplacements de niveau X et Y tels que X+Y=Z-1
 
 
 Bouclier parapluie [450po]
@@ -108,3 +114,14 @@ Le porteur peut utiliser une action gratuite pour mettre les vérins sous pressi
 Lors d'un attaque réussie avec le gant, le porteur peut dépenser toutes les charges du gant pour infliger (charges)d6 dégâts contondants supplémentaires.
 
 Une pile de vent permet de charger le gant 24 fois.
+
+Fiole d'huile à engrenages [15 po]
+---------------------------
+
+Cette petite fiole d'huile très raffinée peut être utilisée pour doubler les dégats physiques de la prochaine attaque d'une arme mécanomagique.
+
+Lunettes à iris [75po]
+----------------
+
+Ces lunettes rondes d'aviateur disposent de verre magiques occultés par des iris.
+Elles permettent à leur porteur de toujours voir dans des conditions de clarté normales. Elle donnent la vision dans le noir et l'immunité aux aveuglements.
