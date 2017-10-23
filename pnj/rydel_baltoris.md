@@ -19,7 +19,7 @@ Un étonnant mélange de marin jurant à tout va et de classe elfique.
 Un voix moyenne, un peu rauque.
 
 Carac
-----
+-----
 
 Elfe, Barde niveau 5 / Guerrier 7
 

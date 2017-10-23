@@ -41,7 +41,7 @@ Armures
 1. Armure de mithral [ Mithral Armor ] Armure (intermédiaire ou lourde mais pas de peau), peu commun
 1. Armure de résistance [ Armor of Resistance ] Armure (légère intermédiaire ou lourde), rare (nécessite un lien)
 1. Bottes d'elfe [ Boots of Elvenkind ] Objet merveilleux, peu commun
-1. Bottes ailées [ Winged Boots ] Objet merveilleux, peu commun (nécessite un lien)
+1. Bottes ailées [ Winged Boots ] Objet merveilleux, peu commun (nécessite un lien) 220po
 1. Bottes de sept lieues [ Boots of Striding and Springing ] Objet merveilleux, peu commun (nécessite un lien)
 1. Bouclier +1 peu commun
 1. Bouclier +2 rare
@@ -64,7 +64,7 @@ Equipement
 1. Anneau de nage [ Ring of Swimming ] Anneau, peu commun
 1. Anneau de protection [ Ring of Protection ] Anneau, rare (nécessite un lien)
 1. Anneau de saut [ Ring of Jumping ] Anneau, peu commun (nécessite un lien)
-1. Carquois d'Elhonna [ Quiver of Elhonna ] Objet merveilleux, peu commun
+1. Carquois d'Elhonna [ Quiver of Elhonna ] Objet merveilleux, peu  120po
 1. Charme antipoison [ Periapt of Proof against Poison ] Objet merveilleux, rare
 1. Charme de coagulation [ Periapt of Wound Closure ] Objet merveilleux, peu commun (nécessite un lien)
 1. Collier d'adaptation [ Necklace of Adaptation ] Objet merveilleux, peu commun (nécessite un lien)
@@ -74,7 +74,7 @@ Equipement
 1. Globe flottant [ Driftglobe ] Objet merveilleux, peu commun
 1. Lunettes de nuit, Objet merveilleux, peu commun
 1. Médaillon des pensées, Objet merveilleux, peu commun (nécessite un lien)
-1. Mitaines de cambriolage, Objet merveilleux, peu commun
+1. Mitaines de cambriolage, Objet merveilleux, peu commun 90po
 1. Robe de vision totale, Objet merveilleux, rare (nécessite un lien)
 1. Sac sans fond, Objet merveilleux, peu commun
 1. SERRE-TÊTE DE LUMIÈRE DESTRUCTRICE [ Circlet of Blasting ]Objet merveilleux, peu commun
