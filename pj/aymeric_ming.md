@@ -1,6 +1,30 @@
 Aymeric : Ming
 ==============
 
+Moine niveau 4, xp 3250
+Humain, CB
+
+FOR 10(+0) DEX 18(+4) CON 13(+1) INT 11(+0) SAG 16(+3) CHA 11(+0)
+
+CA 17, Init +4, Vitesse 15m
+
+PV 27
+
+Perception Passive 13
+
+Maitrise :
+Sauv Force & Dex
+Acrobatie
+Médecine
+Perspicacité
+Religion
+
+PO : 19 ???
+
+Equipement : fulguropoing
+
+
+
 Background
 ----------
 
