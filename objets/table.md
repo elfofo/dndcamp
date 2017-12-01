@@ -55,6 +55,7 @@ Armures
 1. Couvre-chef de déguisement [ Hat of Disguise ] Objet merveilleux, peu commun (nécessite un lien)
 1. Gantelets de puissance d'ogre [ Gauntlets of Ogre Power ] Objet merveilleux, peu commun (nécessite un lien)
 1. Gants antiprojectiles [ Gloves of Missile Snaring ] Objet merveilleux, peu commun (nécessite un lien)
+1. Bouclier d'attraction des projectiles
 
 Equipement
 -------
