@@ -13,3 +13,5 @@ Les bureaux de la compagnie étant fermés. Il se rendent dans le petit hameau �
 qui a été massacré par les rebelles. Là encore, c'est louche. Le massacre semble avoir été très
 méthodique, presque militaire. Ils trouvent dans le village une broche représentant un épervier.
 
+De retour à Héliogabale ils interrogent Mme Lestrat, qui finit par accepter d'organiser une
+rencontre avec la personne ayant loué les chariots pour vider l'entrepôt.
