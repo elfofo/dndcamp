@@ -19,5 +19,5 @@ Ils peuvent par exemple:
   - eldra : german suplex : 1 action si derrière un humanoide on peut lui casser la tête par terre, cela le déplace, 
   le met à terre, et lui fait 2d6+FOR dégats contondants.
 * apprendre la navigation aérienne
-  - permet de pouvoir piloter un aéronef par soi-même (compétence SAG)
+  - permet de pouvoir piloter un aéronef par soi-même (maitrise outils de navigation)
 * autre...
