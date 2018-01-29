@@ -29,3 +29,5 @@ Histoire
 Elle se rend à Alaghôn pour un tournoi de catch.
 
 Elle ne sait pas trop quoi faire d'elle même dans ce nouveau monde.
+
+Elle finit par rejoindre l'Ordre en tant qu'exécutrice.
